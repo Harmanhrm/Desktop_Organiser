@@ -10,6 +10,8 @@ organiser = {
     "Zip_Files": [".rar", ".zip", ".7z"],
     "Text_Files": [".log", ".txt"],
     "Music_Folder": [".mp3", ".msv", ".wav", ".wma"],
+    "Video_Folder": [".mp4"],
+    "PowerPoint_Folder":[".ppt"],
 }
 
 other_folder = os.path.join(desktop_path, 'Pre_Folders')
